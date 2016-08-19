@@ -1,0 +1,3 @@
+[submodule "git_submodules/gae_json_model_converter"]
+	path = git_submodules/gae_json_model_converter
+	url = git@github.com:Karl-Gustav/gae-json-model-converter.git
